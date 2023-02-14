@@ -1,0 +1,1 @@
+import{d as a,r as n,o as _,c as m,e as t}from"./index-ae09eb89.js";const p=a({__name:"index",setup(r){const e=o=>{console.log(o)};return(o,d)=>{const c=n("m-choose-time"),s=n("m-choose-date");return _(),m("div",null,[t(c,{onEndChange:e}),t(s,{onEndChange:e})])}}});export{p as default};

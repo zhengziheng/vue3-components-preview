@@ -1,0 +1,1 @@
+import{d as o,r as s,o as t,c as r,e as a}from"./index-ae09eb89.js";const _=o({__name:"index",setup(c){const e=()=>{console.log("done")};return(i,p)=>{const n=s("m-progress");return t(),r("div",null,[a(n,{isAnimation:"",percentage:60,onFinished:e})])}}});export{_ as default};
